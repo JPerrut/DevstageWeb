@@ -6,7 +6,7 @@ import silver from '../../assets/Medal-silver.svg'
 
 export function Ranking() {
   return (
-    <div className="w-full max-w-[440px] space-y-5">
+    <div className="w-full space-y-5 max-w-[550px] md:max-w-[440px]">
       <h2 className="text-gray-200 text-xl font-heading font-semibold leading-none">
         Ranking de indicações
       </h2>
