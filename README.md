@@ -55,7 +55,7 @@ Este repositório contém o Frontend web da plataforma, desenvolvido para fornec
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/devstage-frontend.git
+   git clone https://github.com/JPerrut/devstage-frontend.git
    ```
 2. Acesse a pasta do projeto:
    ```bash
@@ -79,21 +79,21 @@ Este repositório contém o Frontend web da plataforma, desenvolvido para fornec
 <table>
   <tr>
     <td align="center">
-      <img src="public/readme/initialPage.png" width="250"/>
+      <img src="public/readme/initialPage.png" width="400"/>
       <br><em>Tela inicial</em>
     </td>
     <td align="center">
-      <img src="public/readme/registration.png" width="250"/>
+      <img src="public/readme/registration.png" width="400"/>
       <br><em>Cadastro</em>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="public/readme/referral.png" width="250"/>
+      <img src="public/readme/referral.png" width="400"/>
       <br><em>Tela de indicação</em>
     </td>
     <td align="center">
-      <img src="public/readme/nominationRanking.png" width="250"/>
+      <img src="public/readme/nominationRanking.png" width="400"/>
       <br><em>Tela de ranqueamento</em>
     </td>
   </tr>
