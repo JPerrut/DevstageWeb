@@ -1,9 +1,9 @@
 import Image from 'next/image'
 
 import { getRanking } from '@/http/api'
-import cooper from '../../../assets/medal-cooper.svg'
-import gold from '../../../assets/medal-gold.svg'
-import silver from '../../../assets/medal-silver.svg'
+import cooper from '../../../assets/cooper.svg'
+import gold from '../../../assets/gold.svg'
+import silver from '../../../assets/silver.svg'
 
 export async function Ranking() {
   const { ranking } = await getRanking()
