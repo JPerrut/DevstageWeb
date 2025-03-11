@@ -1,4 +1,4 @@
-## 🏆 DevStage - Ranking de Convites para Promoções (Web) ![alt text](image.png) ![alt text](image-1.png)
+## 🏆 DevStage - Ranking de Convites para Promoções (Web) ![alt text](public/readme/node.png) ![alt text](public/readme/licenseMIT.png)
 
 ### 🚀 Visão Geral
 
